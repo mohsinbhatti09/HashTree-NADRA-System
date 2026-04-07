@@ -1,4 +1,4 @@
-# NADRA System Project
+th# NADRA System Project
 
 ## Project Description
 This repository contains the solution for a NADRA ID-System project. The project implements a system using hashing and trees to support fast searching, insertion, and deletion operations[^1^][1]. The solution is custom-built and does not rely on built-in libraries for hashing, trees, lists, and graphs[^2^][2].
@@ -13,7 +13,7 @@ This repository contains the solution for a NADRA ID-System project. The project
 ## Installation and Usage
   1. Clone the repository to your local machine.
   2. Compile the C++ code using a standard C++ compiler like `g++`.
-  3. Run the executable generated.
+  3. Run the executable generated file.
   4. Follow the on-screen menu for operations like searching, insertion, and deletion.
 
 ## Testing
